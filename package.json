@@ -38,6 +38,7 @@
 		"@fortawesome/free-solid-svg-icons": "^6.1.2",
 		"@sveltejs/adapter-static": "^1.0.0-next.38",
 		"axios": "^0.27.2",
-		"bootstrap": "^5.2.0"
+		"bootstrap": "^5.2.0",
+		"bs5-lightbox": "^1.8.0"
 	}
 }

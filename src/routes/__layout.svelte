@@ -21,6 +21,9 @@
             <a class="nav-link" href="/download">Download</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="/howtoscript">Submit application</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="" on:click={() => window.open("https://github.com/Windows-On-Linux")}>Source code</a>
           </li>
         </ul>
