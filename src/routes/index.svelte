@@ -1,10 +1,3 @@
-<script>
-
-</script>
-
-
-
-
 <div class="container text-center">
     <div class="row">
       <div class="col">
@@ -18,7 +11,7 @@
         
       </div>
       <div class="col-6">
-        <img src="/clurdhome.png" class="img-fluid"/>
+        <img src="/gui.png" class="img-fluid"/>
       </div>
     </div>
   </div>
