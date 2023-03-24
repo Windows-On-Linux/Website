@@ -1,6 +1,14 @@
 <script>
     import 'bootstrap/dist/css/bootstrap.min.css';
+    import SvelteSeo from "svelte-seo";
 </script>
+
+<SvelteSeo
+  title="Wineget - The package manager for Wine"
+  description="Wineget is a simple CLI/GUI package manager for Wine"
+  canonical="https://wineget.pages.dev/"
+  keywords="wine wineget packagemanager linux adobe photoshop ableton"
+/>
 
 <svelte:head>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
@@ -43,7 +51,7 @@
 <footer class="bg-light text-center text-lg-start">
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2022 Copyright:
+    © 2023 Copyright:
     <a class="text-dark" href="/">Windows-On-Linux</a>
     <p>Source code available <a href="https://github.com/Windows-On-Linux">here</a></p>
   </div>
